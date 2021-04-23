@@ -23,9 +23,9 @@ You have to use three main data tables for the entire analysis (available for do
 
 The business objectives and goals of data analysis are pretty straightforward.
 
-## Business objective:
+# Business objective:
   The objective is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'.
-## Goals of data analysis:
+# Goals of data analysis:
    Your goals are divided into three sub-goals:
 1. Investment type analysis: Comparing the typical investment amounts in the venture, seed, angel, private equity etc. so that Spark Funds can choose the type that is best suited for their strategy.
 2. Country analysis: Identifying the countries which have been the most heavily invested in the past. These will be Spark Funds’ favourites as well.
